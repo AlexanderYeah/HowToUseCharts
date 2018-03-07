@@ -39,5 +39,6 @@ Tips：
 
 
 
-
+# PieDemo 饼状图的使用 其实就看Demo 中给出的示例就好了
+![](https://github.com/AlexanderYeah/HowToUseCharts/blob/master/PieDemo/demo1.png)
 
