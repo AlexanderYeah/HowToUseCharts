@@ -45,3 +45,8 @@ Tips：
 # SanDianDemo 散点图的使用
 ![](https://github.com/AlexanderYeah/HowToUseCharts/blob/master/SanDianDemo/sandian.png)
 
+
+# 水平柱状图
+![](https://github.com/AlexanderYeah/HowToUseCharts/blob/master/VerticalLineChartDemo/horizontal.png)
+
+
