@@ -42,11 +42,14 @@ Tips：
 # PieDemo 饼状图的使用 其实就看Demo 中给出的示例就好了
 ![](https://github.com/AlexanderYeah/HowToUseCharts/blob/master/PieDemo/demo1.png)
 
-# SanDianDemo 散点图的使用
+# 散点图的使用 SanDianDemo 
 ![](https://github.com/AlexanderYeah/HowToUseCharts/blob/master/SanDianDemo/sandian.png)
 
 
-# 水平柱状图
+# 水平柱状图  VerticalLineChartDemo
 ![](https://github.com/AlexanderYeah/HowToUseCharts/blob/master/VerticalLineChartDemo/horizontal.png)
+
+# 雷达图 RadarDemo
+![](https://github.com/AlexanderYeah/HowToUseCharts/blob/master/RadarDemo/radar.png)
 
 
