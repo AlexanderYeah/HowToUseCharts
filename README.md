@@ -52,4 +52,6 @@ Tips：
 # 雷达图 RadarDemo
 ![](https://github.com/AlexanderYeah/HowToUseCharts/blob/master/RadarDemo/radar.png)
 
+# 空心饼状图 EmptyPieDemo
+[空心饼状图](https://github.com/AlexanderYeah/HowToUseCharts/tree/master/EmptyPieDemo)
 
