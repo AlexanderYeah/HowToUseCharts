@@ -55,3 +55,8 @@ Tips：
 # 空心饼状图 EmptyPieDemo
 [空心饼状图](https://github.com/AlexanderYeah/HowToUseCharts/tree/master/EmptyPieDemo)
 
+
+# 柱状图  MultibarDemo
+![](https://github.com/AlexanderYeah/HowToUseCharts/blob/master/MultibarDemo/example.png)
+
+
