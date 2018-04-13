@@ -59,4 +59,5 @@ Tips：
 # 柱状图  MultibarDemo
 ![](https://github.com/AlexanderYeah/HowToUseCharts/blob/master/MultibarDemo/example.png)
 
-
+# SingLineDemo 曲线图 
+![](https://github.com/AlexanderYeah/HowToUseCharts/blob/master/SingLineDemo/singline.png)
